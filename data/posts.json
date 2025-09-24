@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Pangolin: About",
+        "description": "Creature Overview",
+        "date": "2025-09-16",
+        "contentHtml": "<p>Pangolins are unique, scaled, nocturnal mammals found in Asia and Africa. They are known for their ability to curl into a ball when threatened, a defense mechanism against predators. All eight pangolin species are facing threats, primarily from habitat loss and illegal wildlife trade. They are the most trafficked mammal in the world, primarily for their meat and scales, which are used in traditional medicine.</p>",
+        "id": 1
+    },
+    {
+        "title": "Pangolin: Diet",
+        "description": "Food sources and habits",
+        "date": "2025-09-16",
+        "contentHtml": "<p>Pangolins are insectivores that primarily feed on ants and termites. They have no teeth, so instead of chewing, they rely on their long, sticky tongues, sometimes longer than their own body in proportion, to collect insects from nests and tunnels. Their tongues are anchored deep in the chest cavity, allowing them to extend far to reach into narrow spaces. To break down their food, pangolins swallow small stones and sand that help grind the insects in a specially adapted, muscular stomach, functioning similarly to a bird's gizzard. Using their powerful claws, they tear into ant hills, termite mounds, and rotting logs to access their prey. Depending on the species, some pangolins forage on the ground while others specialize in finding insects in trees. Because of their specialized diet and feeding behavior, pangolins are notoriously difficult to care for in captivity, often refusing unfamiliar foods.</p>",
+        "id": 2
+    },
+    {
+        "title": "Pangolin: Name",
+        "description": "Etymology",
+        "date": "2025-09-16",
+        "contentHtml": "<p>The genus name Manis come from the Latin word for ghost or  underworld, which may refer to their solitary, nocturnal habits. The African species have different genus names: Smutsia and Phataginus. Smuts is from the German term for \"dirt,\" which is logical as the two species in this genus are referred to as ground pangolins. Phata is Latin for crack and likely refers to the cracked look of their scales. As for their common name, pangolin comes from the Malay word for pangolins, p?ngulin. This translates to roller, which describes their ability to roll into a tight ball.</p>",
+        "id": 3
+    }
+]
